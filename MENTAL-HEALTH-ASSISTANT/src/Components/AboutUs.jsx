@@ -5,6 +5,7 @@ import './AbouUs.css';
 const AboutUs = () => {
   return (
     <div className='About-us'>
+      
       {/* Heading animation on load */}
       <motion.h1
         initial={{ opacity: 0, y: -100 }}
