@@ -1,0 +1,31 @@
+
+select{
+    height: auto;
+    background-color: transparent;
+    outline: none;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-left: 5px;
+    background-color: rgba(22, 92, 139, 0.293);
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.181);
+    border: none;
+    color: white;
+}
+.help-no{
+    display: inline;
+    background-color: rgba(255, 255, 255, 0.527);
+    padding: 10px;
+    border-radius: 10px;
+    color: white;
+}
+small{
+    font-size: 20px;
+    display: inline-block;
+    padding: 15px;
+    margin: 5px 5px 5px 0px;
+    font-weight: bolder;
+    color:white;
+    background-color: rgba(22, 92, 139, 0.744);
+}

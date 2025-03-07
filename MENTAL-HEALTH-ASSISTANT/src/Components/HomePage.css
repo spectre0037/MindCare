@@ -1,0 +1,90 @@
+body{
+    width: 100%;
+    height: 100vh;
+    background-image: url('../assets/ranger-4df6c1b6.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: "Montserrat", serif;
+    color: #2f3e46;
+}
+.tree{
+    width: 25%;
+    height: 55%;
+    background-image: url(../assets/rmbg.png);
+    background-size:contain;
+    background-repeat: no-repeat;
+    position: absolute;
+    background-position: center;
+    top: 25%;
+    left: 60%;
+    z-index: -1;
+    border-radius: 50%;
+    box-shadow:  0px 0px 10px 10px rgba(0, 0, 0, 0.29);
+    opacity: 0.8;
+    filter: brightness(0.8);
+}
+.info{
+    padding-top: 20px;
+    position: absolute;
+    width: 50%;
+    height: 70%;
+    left: 10%;
+    top: 20%;
+}
+button{
+    position: relative;
+    margin-top: 10%;
+    width: 100px;
+    height: 30px;
+    background-color: rgba(22, 92, 139, 0.679);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+div.arrow{
+    position: absolute;
+    bottom: 1%;
+    left: 50%;
+    transform: translateX(-50%);
+    filter: brightness(0.5);
+}
+.bottom{
+    padding-top: 20px;
+    position: absolute;
+    width: 50%;
+    height: 70%;
+    left: 10%;
+    top: 20%;
+    position: absolute;
+    top: 100%;
+}
+.img-2{
+    width: 350px;
+    height: 350px;
+    background-image: url(../assets/human-brain-with-tree-human-brain-with-tree_912214-50880.avif);
+    background-size:contain;
+    background-repeat: no-repeat;
+    position: absolute;
+    background-position: center;
+    top: 15%;
+    left: 100%;
+    z-index: -1;
+    border-radius: 50%;
+    box-shadow:  0px 0px 10px 10px rgba(0, 0, 0, 0.164);
+    filter: brightness(0.7);
+}
+.text-clr{
+    color: rgb(4, 58, 94);
+}
+.text-clr:hover{
+    color: rgb(0, 28, 46);
+}
+.appointment-btn{
+    width: 80%;
+}
+.appointment-btn:hover{
+    background-color: rgba(0, 0, 0, 0.271);
+}
