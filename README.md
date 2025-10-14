@@ -2,7 +2,7 @@
 
 ## 🧠 Overview
 **MindCare** is a mental health support platform designed to provide accessible emotional assistance, professional connections, and AI-driven wellness guidance to users worldwide.  
-This project was developed as part of the **CS331 (Web Programming)** course at **Ghulam Ishaq Khan Institute of Engineering Sciences and Technology (GIKI)**.
+This project is developed as part of the **CS331 (Web Programming)** course at **Ghulam Ishaq Khan Institute of Engineering Sciences and Technology (GIKI)**.
 
 MindCare bridges the gap between users and mental health support through a friendly interface, real-time AI assistant, and professional psychologist recommendations — all within a smooth, interactive web experience.
 
@@ -72,3 +72,4 @@ MindCare bridges the gap between users and mental health support through a frien
 ```bash
 git clone https://github.com/spetre0037/mindcare.git
 cd mindcare
+
